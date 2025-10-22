@@ -1,12 +1,15 @@
-  # Valid-US-Numbers
-  1000+ US Numbers for testing purposes
+# Valid US Numbers for Testing Purposes
 
+## Total Numbers: 367
 
+This list contains US phone numbers (formatted with country code, area code, and seven-digit number) suitable for testing.
 
+---
 
+### Phone Number List
 
-
-
+```json
+[
   "+1-952-660-7350",
   "+1-493-885-4329",
   "+1-697-392-0705",
@@ -63,7 +66,7 @@
   "+1-489-640-4359",
   "+1-750-233-7333",
   "+1-866-574-1971",
- "+1-418-543-8090",
+  "+1-418-543-8090",
   "+1-587-530-2271",
   "+1-404-724-1937",
   "+1-443-307-1473",
@@ -1006,4 +1009,5 @@
   "+1-395-995-3368",
   "+1-643-530-3697",
   "+1-297-335-6530",
-  "+1-338-805-7983",
+  "+1-338-805-7983"
+]
