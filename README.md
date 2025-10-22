@@ -1,6 +1,6 @@
 # Valid US Numbers for Testing Purposes
 
-## Total Numbers: 367
+## Total Numbers: 1000
 
 This list contains US phone numbers (formatted with country code, area code, and seven-digit number) suitable for testing.
 
